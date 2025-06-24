@@ -69,7 +69,7 @@ This analysis was performed using:
 
 ---
 
-## 📚 SQL Practice (10 Queries Included)
+## 📚 SQL Practice (20 Queries Included)
 
 The project includes a set of SQL queries to:
 - Calculate default rates by category
