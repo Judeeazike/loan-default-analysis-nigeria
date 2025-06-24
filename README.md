@@ -57,13 +57,13 @@ This analysis was performed using:
 ### 📊 Power BI Dashboard Overview  
 ![Power BI Dashboard](screenshots/PowerBiGithub.PNG)
 
-### 📈 Pivot Table Exploration in Excel  
+### 📈 Raw Data Exploration in Excel  
 ![Excel Pivot Table](screenshots/ExcelGIThub.PNG)
 
 ### 🧮 SQL Query Practice  
 ![SQL Queries](screenshots/SQLGithub.PNG)
 
-### 📋 Raw Data Exploration  
+### 📋 Pivot Table Exploration  
 ![Pivot Table](screenshots/PivotGitHUB.PNG)
 
 
