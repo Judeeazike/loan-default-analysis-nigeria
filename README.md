@@ -52,7 +52,20 @@ This analysis was performed using:
 
 > _Add screenshots here in your GitHub repo (e.g., dashboard full view, charts, slicers, etc.)_
 
-![Dashboard Screenshot](screenshots/dashboard_preview.png)
+## 📷 Dashboard Preview
+
+### 📊 Power BI Dashboard Overview  
+![Power BI Dashboard](screenshots/PowerBi Github.PNG)
+
+### 📈 Pivot Table Exploration in Excel  
+![Excel Pivot Table](screenshots/Excel GIThub.PNG)
+
+### 🧮 SQL Query Practice  
+![SQL Queries](screenshots/SQL Github.PNG)
+
+### 📋 Raw Data Exploration  
+![Pivot Table](screenshots/PivotGitHUB.PNG)
+
 
 ---
 
