@@ -1,4 +1,5 @@
 # 📊 Loan Default Analysis Dashboard – Nigeria
+An interactive Power BI dashboard that analyzes loan default trends in Nigeria. Includes SQL queries, Excel pivots, and actionable fintech insights.
 
 This project explores a fictional loan dataset to identify patterns in **loan defaults** and provide actionable insights for Nigerian fintech and microfinance institutions. It combines data analysis with interactive visualizations to support smarter lending decisions.
 
